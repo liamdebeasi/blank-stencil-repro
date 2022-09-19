@@ -1,0 +1,5 @@
+@import './my-component.css';
+
+:host {
+  background: blue;
+}
