@@ -30,6 +30,7 @@
     "ionicons": "^7.1.2"
   },
   "devDependencies": {
+    "@stencil/sass": "^3.0.3",
     "@types/jest": "^27.0.3",
     "jest": "^27.4.5",
     "jest-cli": "^27.4.5",
